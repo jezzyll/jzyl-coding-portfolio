@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+.openai/*.tar*
+artifacts/
+# Original archive prompt kept locally as reference only.
+CODEX-PROMPT.txt
