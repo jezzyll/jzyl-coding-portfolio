@@ -353,3 +353,7 @@ dialog[open]{animation:dialogIn .25s var(--ease)}
 
 /* Keep oversized hero artwork from creating horizontal scrolling on narrow screens. */
 @media(max-width:800px){.hero{overflow-x:clip}}
+
+/* Frame the face beneath the new portrait's transparent top margin. */
+.avatar-thumb img{top:-38px}
+@media(max-width:600px){.avatar-thumb img{top:-34px}}

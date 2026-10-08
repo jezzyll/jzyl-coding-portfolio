@@ -14,3 +14,7 @@
 - ChatGPT Site's anonymous HTTP 401 matches its retained owner-only audience.
 
 See README.md for separate hosting and publication instructions.
+
+## New transparent portrait update
+
+Replaced both portrait references with the supplied 941 × 1670 transparent PNG, byte-for-byte. Adjusted the About avatar crop and image alternative text. Repeated 320/390/768/1440px browser checks and interactions: passed without errors.
